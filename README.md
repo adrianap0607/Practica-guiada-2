@@ -1,4 +1,4 @@
-# Laboratorio OpenMP - CC3069 Computacion Paralela y Distribuida
+# Práctica Guiada 02 - CC3069 Computacion Paralela y Distribuida
 
 Este repositorio contiene los ejercicios de scheduling y cláusulas de privacidad de datos en OpenMP, organizados en tres carpetas.
 
